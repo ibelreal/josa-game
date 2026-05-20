@@ -48,7 +48,7 @@ No build tools or package installation required.
 &nbsp;&nbsp;Real-time answer validation with a score tracking and a personalized encouragement result message.
 
 ✔ **Responsive Design:**
-&nbsp;&nbsp;Implemented using Sass to ensure compatibility across mobile, tablet, and desktop devices.
+&nbsp;&nbsp;Implemented using css to ensure compatibility across mobile, tablet, and desktop devices.
 
 ✔ **Performance:**
 &nbsp;&nbsp;Zero dependencies, efficiently built with Vanilla JavaScript to allow fast loading times and minimal maintenance.
