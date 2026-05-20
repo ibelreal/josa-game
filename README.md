@@ -1,6 +1,6 @@
 # 🇰🇷 Josa-Game Quizz
 
-**Live Demo:** [https://ibelreal.github.io/josa-game/](#)
+**Live Demo:** [https://ibelreal.github.io/josa-game/](https://ibelreal.github.io/josa-game/)
 
 ### Description
 
